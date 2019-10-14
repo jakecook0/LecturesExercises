@@ -1,2 +1,6 @@
 .iml
 out/
+*.xml
+/.idea
+GUIS/.idea/workspace.xml
+GUIS/src/.idea/

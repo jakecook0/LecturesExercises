@@ -14,3 +14,8 @@ Topics to study for Exam 2:
 		shamt?: 5
 		function: 6
 	We get a 'green sheet' on the exam: SEE IN CANVAS FILES
+
+Ch 3:
+    3.3 Multiplication -- see second page for diagram
+    3.4 Division -- see second page for diagram tracing
+
